@@ -9,24 +9,14 @@
     display: flex ;
     align-items: center;
     justify-content: space-evenly;
-    
-  
-    
-    
-
 }
-
-
 .border{
     border: 2px solid transparent;
 }
-  
-
 .border:hover{
     border: 2px solid white;
     
 }
-
 .logo{
     background-image: url(amazon_logo.png);
     background-size: cover;
@@ -40,21 +30,15 @@
     font-size: 12px;
     color: #cccccc;
     margin-left: 15px;
-    
-
 }
 .india{
     display: inline-block;
     font-size: 15px;   
-     
 }
 .nav-search{
     display:flex ;
     width: 800px;
     height: 40px;
-  
-    
-    
 }
 .nav-search:hover{
     border: 3px orange solid;
